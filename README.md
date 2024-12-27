@@ -1,4 +1,4 @@
-# Telephone Number Validator Project
+# Telephone Number Validator
 
 This project is a simple US telephone number validator that allows users to check if a given phone number is valid. It uses a regular expression to validate the phone number format.
 
