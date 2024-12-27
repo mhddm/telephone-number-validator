@@ -4,13 +4,13 @@ This project is a simple US telephone number validator that allows users to chec
 
 ## Valid US Phone Number Examples
 
-1 555-555-5555
-1 (555) 555-5555
-1(555)555-5555
-1 555 555 5555
-5555555555
-555-555-5555
-(555)555-5555
+- 1 555-555-5555
+- 1 (555) 555-5555
+- 1(555)555-5555
+- 1 555 555 5555
+- 5555555555
+- 555-555-5555
+- (555)555-5555
 
 ## Project Structure
 
